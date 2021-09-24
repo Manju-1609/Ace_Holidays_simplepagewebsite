@@ -1,0 +1,98 @@
+.btncolor{
+		background-color: #313454;
+	}
+	.brouch-info{
+		background: white;
+		margin: 0em 1.45em 0.5em 1.45em;
+		padding-bottom: 1em;
+	}
+	.contain-brouch{
+		padding: 0.5em 0.9em 0.5em 0.9em;
+	}
+	.brouch-img{
+		width: 25em;
+		height: 20em;
+	}
+	.box-gallery{
+		box-sizing: border-box;
+		vertical-align: middle;
+	}
+	.muSlides{
+		display: none;
+	}
+	.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+	}
+	.prev:hover,.next:hover {
+	  background-color: rgba(0, 0, 0, 0.8);
+	}
+	.caption-container {
+	  text-align: center;
+	  background-color: #313454;
+	  padding: 2px 16px;
+	  color: white;
+	}
+	.row:after {
+	  content: "";
+	  display: table;
+	  clear: both;
+	}
+	.column {
+	  float: left;
+	  width: 16.66%;
+	}
+	.demo {
+	  opacity: 0.6;
+	}
+	.active,.demo:hover {
+	  opacity: 1;
+	}
+	a{ 
+		color: inherit; 
+	} 
+	.nav-top:hover{
+		background: #313454;
+		color: white;
+	}
+	.nav-top{
+		color: black;
+	}
+	.btn-primary:hover{
+		background: #313454;
+	}
+	.btn-primary{
+		background:#313454;
+		border-color:#313454;
+	}
+	.carousel-caption{
+		color: white;
+	}
+	.info{
+		text-align: center;
+	}
+	.team-members{
+		border-radius: 50%;
+		width: 150px;
+		height: 150px;
+	}
+	.container-videos{
+		background: #313454;
+		text-align: center;
+		padding:50px 10px 50px 10px;
+	}
+	.prev,
+	.next {
+	  cursor: pointer;
+	  position: absolute;
+	  top: 40%;
+	  width: auto;
+	  padding: 16px;
+	  margin-top: -50px;
+	  color: white;
+	  font-weight: bold;
+	  font-size: 20px;
+	  border-radius: 0 3px 3px 0;
+	  user-select: none;
+	  -webkit-user-select: none;
+	}
