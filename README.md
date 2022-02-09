@@ -1,1 +1,1 @@
-# simplepagewebsite
+# singlepagewebsite
